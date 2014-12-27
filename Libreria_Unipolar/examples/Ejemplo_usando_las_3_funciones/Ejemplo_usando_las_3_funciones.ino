@@ -12,7 +12,7 @@ Unipolar motor (10,11,12,13); // Creamos el objeto 'motor' asociado a 'Unipolar'
 void setup(){
 }
 void loop(){
-  motor.derecha(); //Giramos a la derecha
+  motor.giraderecha(); //Giramos a la derecha
   delay (1000);
   motor.para(); //Paramos el motor
   delay (1000);
