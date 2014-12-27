@@ -11,4 +11,4 @@ Librería para el control del motor paso a paso unipolar 28BYJ48
 ###### '.para();' para detener el motor
 
 ##Ejemplo:
-###En la carpeta de la librería hay un ejemplo explicado.
+######En la carpeta de la librería hay un ejemplo explicado de uso de la librería.
