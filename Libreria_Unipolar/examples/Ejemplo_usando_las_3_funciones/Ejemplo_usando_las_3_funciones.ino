@@ -9,7 +9,8 @@ Unipolar motor (10,11,12,13); // Creamos el objeto 'motor' asociado a 'Unipolar'
                             //// cable amarillo->pin 11
                             //// cable rosa->pin 12
                             //// cable azul->pin 13
-void setup(){}
+void setup(){
+}
 void loop(){
   motor.derecha(); //Giramos a la derecha
   delay (1000);
