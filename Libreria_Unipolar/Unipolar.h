@@ -1,5 +1,5 @@
 /*
-  Unipolar.h - Libreria para controlar el motor paso a paso unipolar a derechas
+  Unipolar.h - Libreria para controlar el motor paso a paso unipolar
 */
 #ifndef Unipolar_h
 #define Unipolar_h
